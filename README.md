@@ -15,7 +15,10 @@ The final tool used is [Power BI](https://powerbi.microsoft.com/). This is an in
 
 ### Time Series
 
-This page presents the aggregate Separations (patient discharges) and Patient Days by year (each AIHW year ends in June).
+This page presents the aggregate Separations (patient discharges) by year (each AIHW year ends in June).
+
+As the data is not easily standardisable by population, I have added a series to show how the baseline value would be expected to grow, assuming a population growth rate of 1.5% per annum.
+
 
 Interactive "slicer" controls at the right of the page allows the user to restrict the Diagnoses shown.  They can also chose Age Groups, and restrict the range of years shown.
 
