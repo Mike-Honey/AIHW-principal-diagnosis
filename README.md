@@ -8,7 +8,7 @@ The data is shared as Excel files with a few variations in the format. My data p
 
 The data uses a very detailed set of Age Groups - for every 5 year band, up to 84 years old. For quicker analysis, I've added my own Age Group Summary field, which arbitrarily groups sets of AIHW Age Groups.
 
-Note the project's current scope spans multiple editions of the ICD diagnosis definitions, so you may find the codes you are interested in are split under various groups.
+Note the project's current scope spans multiple editions of the ICD diagnosis definitions, so you may find the codes you are interested in are split under various groups. Where the description changes for a code or group of codes, I present the description from the latest available datacube.
 
 
 The final tool used is [Power BI](https://powerbi.microsoft.com/). This is an interactive data visualisation tool, that allows interactive filtering and exploration of the data, from any modern web browser.  
@@ -30,10 +30,14 @@ Interactive "slicer" controls at the right of the page allows the user to restri
 
 ### Other pages
 
-Several other pages have been created, to explore the % Growth in Separations, and to compare Age Groups.  You can access the other pages using the page navigation control at the bottom, which appears as: **< 1 of 10 >**
+Several other pages have been created, to explore the % Growth in Separations, and to compare Age Groups. There's a set of "small multiple" pages showing a grid of mini-charts: "By Diagnosis chapter", "By Diagnosis subchapter" etc. 
+
+You can access the other pages using the page navigation control at the bottom, which appears as: **< 1 of 10 >**
 
 ## 🤝 Support
 
 Contributions, issues, feature requests and sponsorship are all welcome!
 
 Give a ⭐️ if you like this project!
+
+[![Developed by a Human, not by AI. Click for more info](https://github.com/Mike-Honey/covid-19-au-vaccinations/raw/main/Developed-By-a-Human-Not-By-AI-Badge-white@2x.png)](https://notbyai.fyi)
