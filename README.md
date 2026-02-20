@@ -30,7 +30,7 @@ Interactive "slicer" controls at the right of the page allows the user to restri
 
 ### Other pages
 
-Several other pages have been created, to explore the % Growth in Separations, and to compare Age Groups.  You can access the other pages using the page navigation control at the bottom, which appears as: **< 1 of 5 >**
+Several other pages have been created, to explore the % Growth in Separations, and to compare Age Groups.  You can access the other pages using the page navigation control at the bottom, which appears as: **< 1 of 10 >**
 
 ## 🤝 Support
 
