@@ -11,7 +11,7 @@ The data uses a very detailed set of Age Groups - for every 5 year band, up to 8
 Note the project's current scope spans multiple editions of the ICD diagnosis definitions, so you may find the codes you are interested in are split under various groups.
 
 
-The final tool used is [Power BI](https://powerbi.microsoft.com/). This is an interactive data visualisation tool, that allows interactive filtering and exploration of the data.  
+The final tool used is [Power BI](https://powerbi.microsoft.com/). This is an interactive data visualisation tool, that allows interactive filtering and exploration of the data, from any modern web browser.  
 
 ### Time Series
 
